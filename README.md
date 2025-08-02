@@ -21,3 +21,12 @@ O arquivo de design está organizado da seguinte forma:
 - Header e Navegação: Componentes reutilizáveis como a barra de pesquisa, carrinho e menu.
 - Lista de Produtos: Tela que mostra a grade de produtos.
 
+## Imagens da tela:
+![foto9](https://github.com/user-attachments/assets/3c8df394-d795-464d-ac38-5995f94493c9)
+
+##
+
+![foto9](https://github.com/user-attachments/assets/3c8df394-d795-464d-ac38-5995f94493c9)
+
+
+
